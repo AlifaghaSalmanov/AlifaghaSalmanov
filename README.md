@@ -1,4 +1,4 @@
-[![MasterHead](https://media4.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=6c09b952zsf8pzmp1gbwmotc0cfo8wnjn4lt125vr8fx7pft&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)]
+![MasterHead](https://media4.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=6c09b952zsf8pzmp1gbwmotc0cfo8wnjn4lt125vr8fx7pft&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 <h1 align="center">Hi 👋, I'm Alifagha</h1>
 <h3 align="center">A Python developer from Azerbaijan</h3>
 
