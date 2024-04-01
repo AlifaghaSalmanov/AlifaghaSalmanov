@@ -1,10 +1,9 @@
-![MasterHead](https://media4.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=6c09b952zsf8pzmp1gbwmotc0cfo8wnjn4lt125vr8fx7pft&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*IRGB-4OAoO8KSqH_huDPFw.gif)
 <h1 align="center">Hi 👋, I'm Alifagha</h1>
 <h3 align="center">A Python developer from Azerbaijan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alifaghasalmanov&label=Profile%20views&color=0e75b6&style=flat" alt="alifaghasalmanov" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alifaghasalmanov" alt="alifaghasalmanov" /></a> </p>
 
 - 🔭 I’m currently working on [Ekid](https://ekid.az/)
 
