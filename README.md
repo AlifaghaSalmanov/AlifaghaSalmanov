@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/alifagha-salmanov/**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFzGcf7KOc/wtk9IU7AhfWiW_YAxWx_QQ/edit?utm_content=DAFzGcf7KOc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFzGcf7KOc/wtk9IU7AhfWiW_YAxWx_QQ/edit?utm_content=DAFzGcf7KOc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [OndeDrive link](https://1drv.ms/w/c/c1c232893d9f3543/EZWWu1WD269BtdT-mrKcndkB2kcTb1n7i6uGRrZs7lVLuw?e=I0bSYE)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
