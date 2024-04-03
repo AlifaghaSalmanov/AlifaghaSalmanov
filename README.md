@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alifaghasalmanov&label=Profile%20views&color=0e75b6&style=flat" alt="alifaghasalmanov" /> </p>
 
 
-- 🔭 I’m currently working as freelance on [Ekid](https://ekid.az/)
 
 - 🌱 I’m currently learning **Django, Back-end development**
 
