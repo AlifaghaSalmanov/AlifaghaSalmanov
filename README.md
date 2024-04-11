@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/alifagha-salmanov/**
 
-- 📄 Know about my experiences [https://1drv.ms/w/c/c1c232893d9f3543/EZWWu1WD269BtdT-mrKcndkB2kcTb1n7i6uGRrZs7lVLuw?e=I0bSYE](https://1drv.ms/w/c/c1c232893d9f3543/EZWWu1WD269BtdT-mrKcndkB2kcTb1n7i6uGRrZs7lVLuw?e=I0bSYE)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alifagha-salmanov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alifagha salmanov" height="30" width="40" /></a>
